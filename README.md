@@ -59,7 +59,7 @@ end
 endmodule
 ~~~ 
 
-
+**DEVELOPED BY**  GURUPARAN G  **REGISTER NO**  24001677
 
 **RTL LOGIC UP COUNTER**
 
