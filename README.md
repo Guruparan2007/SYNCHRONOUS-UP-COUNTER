@@ -43,6 +43,18 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
+
+**TRUTH TABLE**
+
+![Screenshot 2024-12-26 214029](https://github.com/user-attachments/assets/83e05ec0-2fdf-4d66-9695-7448b472c03c)
+
+
+~~~
+**DEVELOPED BY**  GURUPARAN G
+**REGISTER NO**  24001677
+~~~
+
+
 **PROGRAM**
 
 ~~~
@@ -59,21 +71,18 @@ end
 endmodule
 ~~~ 
 
-**DEVELOPED BY**  GURUPARAN G  **REGISTER NO**  24001677
 
 **RTL LOGIC UP COUNTER**
 
 ![Screenshot 2024-12-26 213923](https://github.com/user-attachments/assets/c1014025-c419-4c5c-a3a9-f1587fedb099)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR  COUNTER**
 
 ![Screenshot 2024-12-26 213937](https://github.com/user-attachments/assets/d10fc19c-fec8-4437-aa80-a15df7d831d5)
 
 
-**TRUTH TABLE**
 
-![Screenshot 2024-12-26 214029](https://github.com/user-attachments/assets/83e05ec0-2fdf-4d66-9695-7448b472c03c)
 
 
 **RESULT**
